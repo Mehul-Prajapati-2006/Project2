@@ -1,4 +1,4 @@
-# new project
+# New project
 
 This project created was from local system.
-Created by Mehul prajapati..
+Created by Mehul prajapati.
